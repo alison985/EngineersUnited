@@ -16,3 +16,4 @@ Sincerely,
 #EngineersUnited
 
 1. [Alison Stanton](https://github.com/alison985), Chief Problem Solver, Stanton Ventures
+2. Deena Rubin, Software Engineer
